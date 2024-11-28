@@ -1,0 +1,111 @@
+= ADR - Périmètre du gestionnaire de flux cible
+
+Template ADR asciidoc. Remplacer le contenu entre < > par vos éléments
+
+* Portée de la décision : <__Equipe / Département / Direction / DSI__>
+* Type : <__Applicatif / Cartographie / Fonctionnel__>
+* Statut : <__Brouillon / Proposée / Validée / Dépréciée / Obsolète__>
+* Produit IT : <__PR000000269__>
+* Validé le : <__JJ/MM/AAAA__>
+
+== Contexte
+
+<__Contexte dans lequel l’ADR a été rédigé. Donne les éléments clé permettant de comprendre l’ADR même pour une personne n’ayant pas participé à la prise de décision__>
+
+== Enoncé du problème
+<__Décrit le problème à traiter__>
+
+== Parties prenantes
+
+* Leader
+** <__Nom leader__>
+* Décideur
+** <__Nom décideur 1__>
+** <__Nom décideur 2__>
+* Participant
+** <__Nom participant 1__>
+** <__Nom participant 2__>
+
+== Facteurs de décision
+<__Les principaux éléments qui ont permis d’orienter la décision __>
+
+* <__Facteur de décision : engagement de planning, valeur métier, etc...__>
+* <__Impact analysé : charge de l'équipe, budget, adhérence, etc...__>
+* <__...__>
+
+== Décision prise
+<__ Résumé de la décision prise
+Conséquences de la décision prise
+Actions à mettre en oeuvre, dette potentiellement contractée, ...
+__>
+
+== Options envisagées
+
+* <<option1>>
+* <<option2>>
+* <<option3>>
+
+== Description des options
+
+=== Titre option 1 (solution retenue) [[option1]]
+
+Description de l'option (texte / schémas)
+
+Analyse de l'option
+|===
+|Facteur de décision |Impact |Analyse
+
+|Facteur de décision 1
+|Impact Facteur 1
+|Analyse Facteur 1
+
+|Facteur de décision 2
+|Impact Facteur 2
+|Analyse Facteur 2
+
+|Facteur de décision 3
+|Impact Facteur 3
+|Analyse Facteur 3
+|===
+
+=== Titre option 2 (non retenue) [[option2]]
+
+Description de l'option (texte / schémas)
+
+Analyse de l'option
+|===
+|Facteur de décision |Impact |Analyse
+
+|Facteur de décision 1
+|Impact Facteur 1
+|Analyse Facteur 1
+
+|Facteur de décision 2
+|Impact Facteur 2
+|Analyse Facteur 2
+
+|Facteur de décision 3
+|Impact Facteur 3
+|Analyse Facteur 3
+|===
+
+=== Titre option 3 (non retenue) [[option3]]
+
+Description de l'option (texte / schémas)
+
+Analyse de l'option
+|===
+|Facteur de décision |Impact |Analyse
+
+|Facteur de décision 1
+|Impact Facteur 1
+|Analyse Facteur 1
+
+|Facteur de décision 2
+|Impact Facteur 2
+|Analyse Facteur 2
+
+|Facteur de décision 3
+|Impact Facteur 3
+|Analyse Facteur 3
+|===
