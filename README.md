@@ -25,13 +25,9 @@ Modèles et templates d’outils d'architecture : Exemples prêts à l’emploi 
 
 2. Pratiques et guides
 
-Bonnes pratiques en architecture continue :
+* Bonnes pratiques en architecture continue : Retours d’expérience sur des approches modernes comme le Domain-Driven Design (DDD) ou l'Event-Driven Architecture (EDA).
 
-Retours d’expérience sur des approches modernes comme le Domain-Driven Design (DDD) ou l'Event-Driven Architecture (EDA).
-
-Documentation évolutive :
-
-Guides pour maintenir une documentation alignée en continu avec l’état du SI.
+* Documentation évolutive : Guides pour maintenir une documentation alignée en continu avec l’état du SI.
 
 3. Études de cas et retours d'expérience
 
