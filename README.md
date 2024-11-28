@@ -1,4 +1,4 @@
-# Architecture : Vers une Architecture Continue chez France Travail
+# Architecture : vers une Architecture Continue chez France Travail
 
 Bienvenue sur ce repot GitHub dédié à l'architecture SI de France Travail. C'est un espace collaboratif où les architectes de la DSI partagent leurs outils, leurs pratiques et leurs réflexions pour soutenir une transformation des pratiques d'architecture vers une approche continue de l’architecture SI.
 
