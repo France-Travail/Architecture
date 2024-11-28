@@ -33,13 +33,13 @@ Des exemples concrets d'architecture appliqués dans le cadre de projets spécif
 
 ## 🛠️ Comment les architectes collaborent-ils ?
 
-1. Contribution en continu
+1. Contribution en continu : 
 Les architectes de France Travail collaborent grace à une approche "Architecture as a product" qui la logique d'amélioration continue des outils et pratiques d'architecture
 
-2. Feedback constant
+2. Feedback constant : 
 Les pratiques partagées sont testées et améliorées grâce aux retours de :
-Développeurs et équipes produit, pour garantir l'alignement sur les besoins terrain.
-Métiers, pour s’assurer de la pertinence des solutions proposées.
+* Développeurs et équipes produit, pour garantir l'alignement sur les besoins terrain.
+* Métiers, pour s’assurer de la pertinence des solutions proposées.
 
 # Ensemble, construisons un SI plateforme fiable, responsable, sécurisé et évolutif !
 
