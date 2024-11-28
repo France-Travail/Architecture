@@ -5,23 +5,17 @@ Bienvenue sur ce repot GitHub dédié à l'architecture SI de France Travail. C'
 ## 🚀 Pourquoi une approche continue ?
 Les systèmes d'information de France Travail évoluent dans un environnement complexe et en constante transformation. Une approche continue permet de répondre aux défis suivants :
 
-Soutenir un SI plateforme :
+* Soutenir un SI plateforme :
 Favoriser la collaboration et l’interopérabilité dans un écosystème d’acteurs divers (partenaires publics et privés, plateformes tierces).
 
-Accélérer la valeur métier :
+* Accélérer la valeur métier :
 Livrer des solutions alignées avec les besoins des utilisateurs tout en minimisant le time-to-market.
 
-Garantir résilience et évolutivité :
+* Garantir résilience et évolutivité :
 Maintenir un SI adaptable face aux évolutions réglementaires, aux nouvelles priorités et aux incidents.
 
-Développer une culture ouverte et collaborative :
+* Développer une culture ouverte et collaborative :
 L'architecture n'est plus un silo ; elle devient un élément central et partagé du cycle de vie des systèmes d'information.
-
-
-Voici une version modifiée du README pour mettre davantage en valeur que ce dépôt est un espace où les architectes de la DSI partagent leurs outils et leurs pratiques d'architecture :
-
-README - Vers une Architecture Continue chez France Travail
-Bienvenue sur le dépôt GitHub dédié à l'architecture SI de France Travail. Ce dépôt est un espace collaboratif où les architectes de la DSI partagent leurs outils, leurs pratiques et leurs réflexions pour soutenir une transformation vers une approche continue et évolutive de l’architecture SI.
 
 ## 📂 Qu'allez-vous trouver dans ce dépôt ?
 
