@@ -29,8 +29,8 @@ L'architecture n'est plus un silo ; elle devient un élément central et partag�
 1. Outils partagés : Modèles et templates d’outils d'architecture : Exemples prêts à l’emploi pour décrire, versionner et maintenir vos architectures.
 
 2. Pratiques et guides :
-* Bonnes pratiques en architecture continue : Retours d’expérience sur des approches modernes comme le Domain-Driven Design (DDD) ou l'Event-Driven Architecture (EDA).
-* Documentation évolutive : Guides pour maintenir une documentation alignée en continu avec l’état du SI.
+* Bonnes pratiques en architecture continue : Domain-Driven Design (DDD), Team Topologies, Wardley Map, Cadre de collaboration avec les équipes Produit, etc...
+* Documentation évolutive : guides pour maintenir une documentation alignée en continu avec l’état du SI comme les ADR
 
 3. Études de cas et retours d'expérience : Des exemples concrets d'architecture appliqués dans le cadre de projets spécifiques
 
