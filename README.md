@@ -20,23 +20,31 @@ L'architecture n'est plus un silo ; elle devient un élément central et partag�
 ## 📂 Qu'allez-vous trouver dans ce dépôt ?
 
 1. Outils partagés
+
 Modèles et templates d’outils d'architecture : Exemples prêts à l’emploi pour décrire, versionner et maintenir vos architectures.
 
 2. Pratiques et guides
+
 Bonnes pratiques en architecture continue :
+
 Retours d’expérience sur des approches modernes comme le Domain-Driven Design (DDD) ou l'Event-Driven Architecture (EDA).
+
 Documentation évolutive :
+
 Guides pour maintenir une documentation alignée en continu avec l’état du SI.
 
 3. Études de cas et retours d'expérience
-Des exemples concrets d'architecture appliqués dans le cadre de projets spécifiques (par ex. interopérabilité avec les APIs du réseau pour l’emploi).
+
+Des exemples concrets d'architecture appliqués dans le cadre de projets spécifiques
 
 ## 🛠️ Comment les architectes collaborent-ils ?
 
 1. Contribution en continu : 
+
 Les architectes de France Travail collaborent grace à une approche "Architecture as a product" qui la logique d'amélioration continue des outils et pratiques d'architecture
 
 2. Feedback constant : 
+
 Les pratiques partagées sont testées et améliorées grâce aux retours de :
 * Développeurs et équipes produit, pour garantir l'alignement sur les besoins terrain.
 * Métiers, pour s’assurer de la pertinence des solutions proposées.
