@@ -30,7 +30,7 @@ L'architecture n'est plus un silo ; elle devient un élément central et partag�
 
 2. Pratiques et guides :
 * Bonnes pratiques en architecture continue : Domain-Driven Design (DDD), Team Topologies, Wardley Map, Cadre de collaboration avec les équipes Produit, etc...
-* Documentation évolutive : guides pour maintenir une documentation alignée en continu avec l’état du SI comme les ADR
+* Documentation évolutive : guides pour maintenir une documentation alignée en continu type Architecture Decision Record (ADR) 
 
 3. Études de cas et retours d'expérience : Des exemples concrets d'architecture appliqués dans le cadre de projets spécifiques
 
